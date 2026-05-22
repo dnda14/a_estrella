@@ -54,7 +54,8 @@ Si estás utilizando una terminal con GCC/G++, puedes compilar el proyecto ejecu
 ```bash
 g++ -std=c++11 main.cpp -o pathfinding_visualizer `pkg-config --cflags --libs opencv4`
 ```
-
+### VIDEO DEMO
+https://github.com/chuancao26/a_estrella/edit/main/a-estrella-ferro-huanca-mamani222_AJ2Vy2G2.mp4
 ## 👥 Autores
 Este proyecto fue desarrollado colaborativamente por:
 
